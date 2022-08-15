@@ -15,22 +15,6 @@
 
 ## Contact
 Find all my socials and resume in my [website](https://totomarte99.github.io/Tomas/)
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
 
 
  
