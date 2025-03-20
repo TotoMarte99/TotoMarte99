@@ -39,7 +39,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/tomasmartelon/) 🏆.
 <br>
 
 
@@ -109,5 +109,4 @@
 </p>
 
 
-<p>Total visitors till now 👇❤️</p>
-<img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
+
