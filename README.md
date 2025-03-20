@@ -30,7 +30,7 @@
 <br>
 
 
-- 🌱 I’m currently exploring Cibersecurity and studying Software Development.
+- 🌱 I'm currently exploring cybersecurity, and I'm in my final year of university studying software development..
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
@@ -44,25 +44,19 @@
 -------------------
 ### Programming languages:
 &emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-000?logo=C%2B%2B)
+![Python]([https://img.shields.io/npm/v/npm.svg?logo=python)
+![C#](https://img.shields.io/npm/v/npm.svg?logo=C#)
+![JavaScript](https://img.shields.io/npm/v/npm.svg?logo=javascript)
+
 
 ### Frontend Development:
 &emsp;
-![React](https://img.shields.io/badge/-React-000?logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=Next.js)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?logo=Material-UI)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?logo=Chakra-UI)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?logo=Chart.js)
 
-### Backend Development:
-&emsp;
-![Express](https://img.shields.io/badge/-Express-000?logo=Express)
 
 ### Misc Tools:
 &emsp;
@@ -80,25 +74,19 @@
 
 ### Databases:
 &emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+![SQL](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 
 
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
 
 <h3 align="center" >Connect with me 🤝 </h3>
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/nitin-dahiya/">
+        <a   target="_blank" href="https://www.linkedin.com/in/tomasmartelon/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/nitindahiya199">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/TotoMarte99">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="mailto:nitindahiya00000@gmail.com">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
       </div>
 
 </p>
