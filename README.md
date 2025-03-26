@@ -49,32 +49,6 @@
 ![JavaScript](https://img.shields.io/npm/v/npm.svg?logo=javascript)
 
 
-### Frontend Development:
-&emsp;
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?logo=Chakra-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
-
-
-### Misc Tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
-
-### Services & Frameworks: 
-&emsp;
-![Auth0](https://img.shields.io/badge/-Auth0-000?logo=Auth0)
-![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
-
-### Databases:
-&emsp;
-![SQL](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 
 
 
